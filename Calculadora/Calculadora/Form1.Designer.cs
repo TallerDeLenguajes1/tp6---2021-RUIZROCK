@@ -276,7 +276,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Calculadora";
             this.Text = "Calculadora";
-            this.TransparencyKey = System.Drawing.Color.Transparent;
+            this.TransparencyKey = System.Drawing.SystemColors.Control;
             this.ResumeLayout(false);
             this.PerformLayout();
 
